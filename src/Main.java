@@ -55,16 +55,16 @@ public class Main
             switch(Estación)
             {
                 case "PRIMAVERA":
-                    System.out.println("Es PRIMAVERA");
+                    System.out.println("Estas en la estación: "+Estación);
                     break;
                 case "VERANO":
-                    System.out.println("Es VERANO");
+                    System.out.println("Estas en la estación: "+Estación);
                     break;
                 case "OTOÑO":
-                    System.out.println("Es OTOÑO");
+                    System.out.println("Estas en la estación: "+Estación);
                     break;
                 case "INVIERNO":
-                    System.out.println("Es INVIERNO");
+                    System.out.println("Estas en la estación: "+Estación);
                     break;
                 default:
                     System.out.println("No es una Estación");
