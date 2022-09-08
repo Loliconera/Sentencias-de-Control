@@ -1,7 +1,6 @@
 public class Main
 {
     public static void main(String[] args)
-
     {
         {
             int numeroIf = 1;
@@ -74,7 +73,5 @@ public class Main
                 System.out.println("Fin del Switch Case");
             }
         }
-
     }
-
 }
